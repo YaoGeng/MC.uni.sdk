@@ -1,0 +1,14 @@
+.idea
+.vscode
+node_modules
+bower_components
+
+/build_*
+/dist*
+/._tmp
+
+.DS_Store
+/*.zip
+/*.7z
+
+.history
